@@ -1,0 +1,14 @@
+.box {
+  height: 20px;
+  width: 20px;
+  background-color: black;
+  display: inline-block;
+  border-width: 1px;
+  border-color: yellow;
+  border-style: solid;
+  margin: 0 0 0 0;
+}
+
+.row {
+  padding: 0 0 0 0;
+}
